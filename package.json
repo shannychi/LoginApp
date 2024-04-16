@@ -2,7 +2,7 @@
   "name": "loginapp",
   "version": "1.0.0",
   "description": "An app where users can Login or register and create a post",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
